@@ -18,7 +18,7 @@ plot(f,w);
 figure("Name","Q2")
 fs=000;
 
-while fs<30000
+while fs<60000
     t=0:1/fs:1;
     x=A*cos(2*pi*f0*t);
     N=length(x);

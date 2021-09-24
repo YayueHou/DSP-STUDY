@@ -10,7 +10,7 @@ $$ f(t)=\frac{a_0}{2} + \displaystyle \sum_{n=1}^{n \to \infty}(a_n cosn{\omega}
 
 其中
 $$ \omega_0=\frac{2\pi}{T} $$
-$$ a_n=\frac{2}{T} \int^{T/2}_{-T/2} f(t)cosn\omega_0tdt \qquad (n=0,1,...)$$
+$$ a_n=\frac{2}{T}  \int^{T/2}_{-T/2} f(t)cosn\omega_0tdt \qquad (n=0,1,...)$$
 $$ b_n=\frac{2}{T} \int^{T/2}_{-T/2} f(t)sinn\omega_0tdt \qquad (n=0,1,...)$$
 
 
